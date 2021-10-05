@@ -1,7 +1,7 @@
 #-------------------------------Gramener Case Study-------------------------------------------
 
 ##Setting path & importing neccessary libraries
-setwd("/media/newhd/Data Science/PGDDA IIITB Docs/Course2_StatisticsAndEDA/GramenerCaseStudy")
+
 library(ggplot2)
 library(dplyr)
 library(tidyr)
